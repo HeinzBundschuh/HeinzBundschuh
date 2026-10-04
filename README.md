@@ -1,16 +1,28 @@
-## Hi there 👋
+# Heinz Bundschuh
 
-<!--
-**HeinzBundschuh/HeinzBundschuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hobby developer from Oberwart, Austria. I build small, practical tools that work offline and keep your data on your own computer.
 
-Here are some ideas to get you started:
+Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeuge, die offline arbeiten und deine Daten auf deinem eigenen Rechner lassen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Calendar in the browser · Kalender im Browser
+
+| Project | What it does · Was es macht |
+|---|---|
+| **[Endless Calendar Pro](https://github.com/HeinzBundschuh/endless-calendar-pro)** | A complete calendar in one single HTML file – [try it in your browser](https://heinzbundschuh.github.io/endless-calendar-pro/).<br>Ein vollständiger Kalender in einer einzigen HTML-Datei – [gleich ausprobieren](https://heinzbundschuh.github.io/endless-calendar-pro/). |
+
+## Thunderbird add-ons · Thunderbird-Add-ons
+
+Add-ons for Thunderbird's calendar. Thunderbird stays the foundation – sync, reminders and the event dialog remain as they are – and the add-ons add what is missing.
+
+Add-ons für den Thunderbird-Kalender. Thunderbird bleibt die Grundlage – Synchronisation, Erinnerungen und der Termindialog bleiben, wie sie sind –, die Add-ons ergänzen, was fehlt.
+
+| Add-on | What it does · Was es macht |
+|---|---|
+| **[Kalender-Duplikate](https://github.com/HeinzBundschuh/kalender-duplikate)**<br>Calendar Duplicate Finder | Finds duplicate events, also across several calendars, and deletes the ones you select – with an ICS backup.<br>Findet doppelte Termine, auch zwischen mehreren Kalendern, und löscht die ausgewählten – mit ICS-Backup. |
+| **[Kalender-Umzug](https://github.com/HeinzBundschuh/kalender-umzug)**<br>Calendar Mover | Moves events to another calendar, one or many at once, by drag and drop.<br>Verschiebt Termine in einen anderen Kalender, einzeln oder viele auf einmal, per Ziehen. |
+| **[Kalender-Terminplaner](https://github.com/HeinzBundschuh/kalender-terminplaner)**<br>Calendar Month Planner | A clear month view in the style of classic desktop planners, with holidays of eight countries.<br>Übersichtliche Monatsansicht im Stil klassischer Terminplaner, mit Feiertagen von acht Ländern. |
+| **[Kalender-Ansicht](https://github.com/HeinzBundschuh/kalender-ansicht)**<br>Calendar Hide & Compact | Hides events and series in the month view or shows them as a thin bar.<br>Blendet Termine und Serien in der Monatsansicht aus oder zeigt sie als schmalen Balken. |
+
+All projects are free and open source. Bug reports and ideas are welcome in the *Issues* of each project.
+
+Alle Projekte sind frei und quelloffen. Fehlermeldungen und Ideen sind in den *Issues* des jeweiligen Projekts willkommen.
