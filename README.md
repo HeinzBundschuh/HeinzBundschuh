@@ -9,7 +9,7 @@ Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeug
 | Project | What it does · Was es macht |
 |---|---|
 | **[Endless Calendar Pro](https://github.com/HeinzBundschuh/endless-calendar-pro)** | A complete calendar in one single HTML file – [try it in your browser](https://heinzbundschuh.github.io/endless-calendar-pro/).<br>Ein vollständiger Kalender in einer einzigen HTML-Datei – [gleich ausprobieren](https://heinzbundschuh.github.io/endless-calendar-pro/). |
-| **[Ordinations-Terminbuch](https://github.com/HeinzBundschuh/terminbuch)**<br>Appointment Book | A digital appointment book for a small practice in one single HTML file: free and booked times at a glance, in German and English.<br>Ein digitales Terminbuch für eine kleine Ordination in einer einzigen HTML-Datei: freie und belegte Zeiten auf einen Blick, auf Deutsch und Englisch. |
+| **[Ordinations-Terminbuch](https://github.com/HeinzBundschuh/terminbuch)**<br>Appointment Book | A digital appointment book for a small practice in one single HTML file: free and booked times at a glance, in German and English – [try it in your browser](https://heinzbundschuh.github.io/Terminbuch/).<br>Ein digitales Terminbuch für eine kleine Ordination in einer einzigen HTML-Datei: freie und belegte Zeiten auf einen Blick, auf Deutsch und Englisch – [gleich ausprobieren](https://heinzbundschuh.github.io/Terminbuch/). |
 
 ## Thunderbird add-ons · Thunderbird-Add-ons
 
