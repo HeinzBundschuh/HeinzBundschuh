@@ -1,8 +1,8 @@
 # Heinz Bundschuh
 
-Hobby developer from Oberwart, Austria. I build small, practical tools that work offline and keep your data on your own computer.
+Hobby developer from Oberwart, Austria. I build small, practical tools for everyday use – mostly add-ons for Thunderbird and programs that run in the browser. They are free and open source, and wherever possible they work offline and keep your data on your own computer.
 
-Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeuge, die offline arbeiten und deine Daten auf deinem eigenen Rechner lassen.
+Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeuge für den Alltag – vor allem Add-ons für Thunderbird und Programme, die im Browser laufen. Sie sind frei und quelloffen und arbeiten, wo immer es geht, offline und lassen deine Daten auf deinem eigenen Rechner.
 
 ## Calendar and appointments in the browser · Kalender und Termine im Browser
 
