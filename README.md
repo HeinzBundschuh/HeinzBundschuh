@@ -13,9 +13,9 @@ Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeug
 
 ## Thunderbird add-ons · Thunderbird-Add-ons
 
-Add-ons for Thunderbird's calendar. Thunderbird stays the foundation – sync, reminders and the event dialog remain as they are – and the add-ons add what is missing.
+Add-ons for Thunderbird's calendar and mail. Thunderbird stays the foundation – sync, reminders and the event dialog remain as they are – and the add-ons add what is missing.
 
-Add-ons für den Thunderbird-Kalender. Thunderbird bleibt die Grundlage – Synchronisation, Erinnerungen und der Termindialog bleiben, wie sie sind –, die Add-ons ergänzen, was fehlt.
+Add-ons für Kalender und Mail in Thunderbird. Thunderbird bleibt die Grundlage – Synchronisation, Erinnerungen und der Termindialog bleiben, wie sie sind –, die Add-ons ergänzen, was fehlt.
 
 | Add-on | What it does · Was es macht |
 |---|---|
@@ -23,6 +23,7 @@ Add-ons für den Thunderbird-Kalender. Thunderbird bleibt die Grundlage – Sync
 | **[Kalender-Umzug](https://github.com/HeinzBundschuh/kalender-umzug)**<br>Calendar Mover | Moves events to another calendar, one or many at once, by drag and drop.<br>Verschiebt Termine in einen anderen Kalender, einzeln oder viele auf einmal, per Ziehen. |
 | **[Kalender-Terminplaner](https://github.com/HeinzBundschuh/kalender-terminplaner)**<br>Calendar Month Planner | A clear month view in the style of classic desktop planners, with holidays of eight countries.<br>Übersichtliche Monatsansicht im Stil klassischer Terminplaner, mit Feiertagen von acht Ländern. |
 | **[Kalender-Ansicht](https://github.com/HeinzBundschuh/kalender-ansicht)**<br>Calendar Hide & Compact | Hides events and series in the month view or shows them as a thin bar.<br>Blendet Termine und Serien in der Monatsansicht aus oder zeigt sie als schmalen Balken. |
+| **[Correct Mail Translate](https://github.com/HeinzBundschuh/Correct-Mail-Translate)**<br>Mail-Übersetzung | Translates selected text or a whole email on the Google Translate website via the context menu – hard-wrapped lines are joined into whole sentences first.<br>Übersetzt markierten Text oder die ganze Mail über das Kontextmenü auf der Google-Übersetzer-Webseite – hart umbrochene Zeilen werden vorher zu ganzen Sätzen zusammengefügt. |
 
 All projects are free and open source. Bug reports and ideas are welcome in the *Issues* of each project.
 
