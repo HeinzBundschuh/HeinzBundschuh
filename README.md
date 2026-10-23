@@ -1,8 +1,8 @@
 # Heinz Bundschuh
 
-Hobby developer from Oberwart, Austria. I build small, practical tools for everyday use – mostly add-ons for Thunderbird and programs that run in the browser. They are free and open source, and wherever possible they work offline and keep your data on your own computer.
+Hobby developer from Oberwart, Austria. I build small, practical tools for everyday use – mostly add-ons for Thunderbird, plugins for Zim and programs that run in the browser. They are free and open source, and wherever possible they work offline and keep your data on your own computer.
 
-Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeuge für den Alltag – vor allem Add-ons für Thunderbird und Programme, die im Browser laufen. Sie sind frei und quelloffen und arbeiten, wo immer es geht, offline und lassen deine Daten auf deinem eigenen Rechner.
+Hobby-Entwickler aus Oberwart, Österreich. Ich baue kleine, praktische Werkzeuge für den Alltag – vor allem Add-ons für Thunderbird, Plugins für Zim und Programme, die im Browser laufen. Sie sind frei und quelloffen und arbeiten, wo immer es geht, offline und lassen deine Daten auf deinem eigenen Rechner.
 
 ## Calendar and appointments in the browser · Kalender und Termine im Browser
 
@@ -26,6 +26,16 @@ Add-ons für Kalender und Mail in Thunderbird. Thunderbird bleibt die Grundlage 
 | **[Kalender-Terminplaner](https://github.com/HeinzBundschuh/kalender-terminplaner)**<br>Calendar Month Planner | A clear month view in the style of classic desktop planners, with holidays of eight countries.<br>Übersichtliche Monatsansicht im Stil klassischer Terminplaner, mit Feiertagen von acht Ländern. |
 | **[Kalender-Ansicht](https://github.com/HeinzBundschuh/kalender-ansicht)**<br>Calendar Hide & Compact | Hides events and series in the month view or shows them as a thin bar.<br>Blendet Termine und Serien in der Monatsansicht aus oder zeigt sie als schmalen Balken. |
 | **[Correct Mail Translate](https://github.com/HeinzBundschuh/Correct-Mail-Translate)**<br>Mail-Übersetzung | Translates selected text or a whole email on the Google Translate website via the context menu – hard-wrapped lines are joined into whole sentences first.<br>Übersetzt markierten Text oder die ganze Mail über das Kontextmenü auf der Google-Übersetzer-Webseite – hart umbrochene Zeilen werden vorher zu ganzen Sätzen zusammengefügt. |
+
+## Zim plugins · Zim-Plugins
+
+Plugins for [Zim Desktop Wiki](https://zim-wiki.org), the desktop wiki that keeps your notes as plain text files on your own computer.
+
+Plugins für [Zim Desktop Wiki](https://zim-wiki.org), das Desktop-Wiki, das deine Notizen als einfache Textdateien auf deinem eigenen Rechner speichert.
+
+| Plugin | What it does · Was es macht |
+|---|---|
+| **[Live Search](https://github.com/HeinzBundschuh/zim-plugin-livesearch)** 🆕<br>Live-Suche | Searches the whole notebook while you type and shows text snippets with the search terms highlighted for every page found; a click opens the page with all matches highlighted. Same query syntax as Zim's own search, adjustable window transparency, in German and English, for Zim 0.77 or newer.<br>Durchsucht das ganze Notizbuch schon beim Eintippen und zeigt zu jeder gefundenen Seite Textausschnitte mit den markierten Suchbegriffen; ein Klick öffnet die Seite mit allen Treffern markiert. Gleiche Suchausdrücke wie Zims eigene Suche, einstellbare Transparenz des Fensters, auf Deutsch und Englisch, für Zim 0.77 oder neuer. |
 
 All projects are free and open source. Bug reports and ideas are welcome in the *Issues* of each project.
 
